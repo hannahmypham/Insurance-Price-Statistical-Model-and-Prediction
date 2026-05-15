@@ -13,6 +13,7 @@
 An end-to-end regression study predicting individual medical insurance charges using demographic and health data. The project rigorously tests OLS assumptions, engineers features from domain knowledge, and discovers that an **obesity-smoking interaction term** captures a +$19,740 cost impact absent in all additive models.
 
 **Key Results:**
+
  🎯 **R² = 0.86, Adjusted R² = 0.86** on final model (M6)
  
  💡 **obese x smoker interaction** captures **+$19,740 cost impact** not found in baseline models
