@@ -18,8 +18,6 @@ An end-to-end regression study predicting individual medical insurance charges u
 - 📊 Evaluated **7 candidate regression models** with full OLS diagnostics
 - ✅ Course project for DSC 241: Statistical Models at UC San Diego
 
-*Built collaboratively with [Edith Gu](https://github.com) as part of the UC San Diego MS Data Science program.*
-
 ---
 
 ## Team & Contributions
